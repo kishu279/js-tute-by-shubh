@@ -19,5 +19,5 @@ console.log(num3 === num4); //false
 
 // != vs !==
 
-console.log(num1 != num2 );
-console.log(num2 !== num3);
+console.log(num1 != num2 ); //true 
+console.log(num2 !== num3); //false
