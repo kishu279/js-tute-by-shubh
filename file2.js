@@ -7,7 +7,7 @@ let secondName = "Vidya";
 
 // const means constant , it is something which cannot be changed 
 const thirdName = "Ujjwal";
-// thirdName = "Naina sweetheart";
+thirdName = "Naina sweetheart";
 
 console.log(firstName);
 console.log(secondName);

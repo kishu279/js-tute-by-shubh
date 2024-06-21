@@ -1,12 +1,12 @@
 //let keyword 
 
-let firstname = "subh";
-firstname = "nehaSubh "
+var firstname = "subh";
+var firstname = "nehaSubh "
 
 
 
-let secName = "subh";
-secname = "nehaSubh "
+let secname = "subh";
+let secname = "nehaSubh "
 
 console.log(firstname);
 console.log(secName);

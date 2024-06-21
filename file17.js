@@ -1,14 +1,12 @@
 //nested if else 
 
-const { use } = require("express/lib/application");
-
 // winning number 19 
 // 19 your guess is right 
 // 17 too low 
 // 29 too high 
 
 let winningNumber = 19 ;
-let userGuess = 19;
+let userGuess = 29;
 
 
 if(userGuess === winningNumber){
