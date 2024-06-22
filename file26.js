@@ -1,6 +1,7 @@
 // how to clone and array ?
 
 let array1 = ["item1","item2"];
+let randomarray = [...array1, "item3"];
 
 //method 1 
 let array2 = ["item1","item2"]; // we wont use this method because we will have large number of elements in array 
@@ -19,3 +20,4 @@ console.log(array2);
 console.log(array3);
 console.log(array4);
 console.log(array5);
+console.log(randomarray);
