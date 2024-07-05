@@ -10,7 +10,8 @@ const userMethods = {
 };
 
 function createUser(firstName, lastName, email, age, address) {
-  const user = {};
+  // const user = {};
+  const user = Object.create(userMethods);
   user.firstName = firstName;
   user.lastName = lastName;
   user.email = email;
@@ -48,5 +49,5 @@ const user3 = createUser(
 );
 
 console.log(user1);
-console.log(user2);
-console.log(user3);
+// console.log(user2);
+// console.log(user3);
