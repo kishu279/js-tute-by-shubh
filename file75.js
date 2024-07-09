@@ -23,6 +23,8 @@ hello.prototype = [];
 console.log(hello.prototype); // now this is an array
 hello.prototype.push("1");
 
+// we don't have any use for this ...
+
 // that proto
 // {}
 // new instance {}
