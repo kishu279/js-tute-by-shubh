@@ -1,6 +1,3 @@
-Here's a beautiful and catchy README for your repository:
-
----
 
 # 🎉 Welcome to the JavaScript End-to-End Tutorial! 🚀
 
